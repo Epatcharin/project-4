@@ -17,6 +17,6 @@ This project provides an interactive dashboard to analyze car advertisement data
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Epatcharin/project-4.git>
    render <https://project-4-4azq.onrender.com>
 
