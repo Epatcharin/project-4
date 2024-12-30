@@ -24,9 +24,7 @@ This tool is designed to help users gain insights into the car market by simulat
 ### Steps to Set Up and Run the Application
 1. Clone the repository:
    ```bash
-<<<<<<< HEAD
-   git clone <repository_url>
-   cd project_directory
+
 =======
    git clone <https://github.com/Epatcharin/project-4.git>
    render <https://project-4-4azq.onrender.com>
