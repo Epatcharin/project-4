@@ -38,4 +38,5 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run app.py
+
 http://localhost:10000
