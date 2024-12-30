@@ -22,12 +22,8 @@ This tool is designed to help users gain insights into the car market by simulat
  Python 3.7+ installed on your local machine.
 
 ### Steps to Set Up and Run the Application
-1. Clone the repository:
+### Clone the repository:
    ```bash
-<<<<<<< HEAD
-   git clone <repository_url>
-   cd project_directory
-=======
    git clone <https://github.com/Epatcharin/project-4.git>
    render <https://project-4-4azq.onrender.com>
 >>>>>>> 0206da1b916b1d2b048c481620981e0998410fba
