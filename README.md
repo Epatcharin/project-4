@@ -22,12 +22,13 @@ This project provides an interactive dashboard to analyze car advertisement data
 1. Clone the repository:
    ```bash
    git clone <https://github.com/Epatcharin/project-4.git>
-   render <https://project-4-4azq.onrender.com>
+   render <https://https://project-4-1-8z7y.onrender.com>
 >>>>>>> 0206da1b916b1d2b048c481620981e0998410fba
 
 # Clone the repository
 git clone https://github.com/Epatcharin/project-4.git
 cd project-4
+reder https://project-4-1-8z7y.onrender.com
 
 # Set up the virtual environment
 python -m venv venv
