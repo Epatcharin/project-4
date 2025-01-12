@@ -4,7 +4,8 @@ import plotly.express as px
 import altair as alt
 
 # Load the dataset
-df = pd.read_csv(r"C:\Users\epatc\Downloads\vehicles_us (1).csv")
+#df = pd.read_csv(r"C:\Users\epatc\Downloads\vehicles_us (1).csv")
+df = pd.read_csv('data/vehicles_us.csv')
 
 st.header("Car Advertisement Analysis Dashboard")
 
