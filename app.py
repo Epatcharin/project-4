@@ -5,7 +5,8 @@ import altair as alt
 import os
 
 # Load the dataset
-df = pd.read_csv(r"C:\Users\epatc\Downloads\vehicles_us.csv")
+#df = pd.read_csv(r"C:\Users\epatc\Downloads\vehicles_us.csv")
+df = pd.read_csv('vehicles_us.csv')
 
 st.header("Car Advertisement Analysis Dashboard")
 
